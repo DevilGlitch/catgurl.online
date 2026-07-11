@@ -11,7 +11,7 @@ body {
   .command-prompt {
     background-color: #000;
     color: #fff;
-    padding: 20px;
+    padding: 30vh;
     border: 2px solid #fff;
     border-radius: 5px;
   }
