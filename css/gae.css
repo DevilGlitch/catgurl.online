@@ -15,20 +15,3 @@ body {
     border: 2px solid #fff;
     border-radius: 5px;
   }
-  
-  input {
-    font-family: monospace;
-    width: 100px;
-    padding: 5px;
-    margin-right: 10px;
-  }
-  
-  button {
-    font-family: monospace;
-    padding: 5px 10px;
-    background-color: #444;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-  }
-  
