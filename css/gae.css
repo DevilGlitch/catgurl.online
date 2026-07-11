@@ -10,6 +10,7 @@ body {
   
   .command-prompt {
     background-color: #000;
+    background-image: url("https://github.com/DevilGlitch/catgurl.online/blob/main/visualAssets/catonlinebackground2.png?raw=true");  
     color: #fff;
     padding: 30vh;
     border: 2px solid #fff;
